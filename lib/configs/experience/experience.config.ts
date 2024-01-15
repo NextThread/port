@@ -9,17 +9,14 @@ const experienceBase: ExperienceBase[] = [
       start: date(3, 5, 2023),
       end: null
     },
-    company: "Pelico",
-    title: "QA & Développeur frontend",
+    company: "Persist Ventures",
+    title: "SWE Intern",
     link: "https://www.pelico.ai",
     description: [
-      "Développement d'un framework de test pour répondre aux besoins des tests à implémenter",
-      "Écriture de test end-to-end pour le frontend avec Playwright",
-      "Mise en place de CI/CD GitLab pour l'exécution des tests",
-      "Développement de nouvelles fonctionnalités sur le site en ReactJS",
-      "Collaboration avec l'équipe produit en vue de la maintenance des spécifications des tests"
+      "Implemented advanced automation features into Chrome extensions leveraging GPT-4",
+      "Py3 & JS, resulting in a 30% reduction in manual tasks and increased team efficiency."
     ],
-    skills: ["Playwright", "TypeScript", "ReactJS", "GraphQL", "GitLab CI/CD", "PowerShell"]
+    skills: ["JavaScript", "Python", "GPT-4", "TypeScript"]
   },
   {
     type: "pro",

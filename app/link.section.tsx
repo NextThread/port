@@ -15,9 +15,6 @@ export function LinkSection(): ReactElement {
       <LinkButton href="https://www.linkedin.com/in/anurag31oct" target="_blank" style={buttonStyle}>
         LinkedIn
       </LinkButton>
-      {/* <LinkButton href="https://www.malt.fr/profile/camilledugas" target="_blank" style={buttonStyle}>
-        Malt
-      </LinkButton> */}
       <LinkButton href="mailto:contact@anuragr135@gmail.com" target="_blank" style={buttonStyle}>
         Email
       </LinkButton>

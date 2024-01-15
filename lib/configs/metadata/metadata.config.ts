@@ -1,7 +1,7 @@
 import type { Metadata } from "next";
 
 const data = {
-  title: "Camille Dugas | Développeur Full-Stack",
+  title: "Anurag Roy | Dev",
   description: [
     "Développeur frontend depuis 2016. Spécialisé dans l'écosystème JavaScript,",
     "je travaille principalement avec les frameworks React et Next."
@@ -19,7 +19,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: data.title,
     description: data.description,
-    siteName: "Camille Dugas | Portfolio",
+    siteName: "Anurag Roy | Portfolio",
     url: "https://camilledugas.me",
     type: "website"
   },

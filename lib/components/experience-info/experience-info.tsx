@@ -11,7 +11,7 @@ export function ExperienceInfo({ experience, ...props }: ExperienceProps): React
     <div {...props}>
       <div className="flex justify-between sm:flex-col">
         <div className="flex flex-wrap items-center gap-2">
-          <Text size="large" className="uppercase">{experience.company}</Text>
+          <Text color="green" size="large" className="uppercase">{experience.company}</Text>
 
           <Label color={experienceTypeLabel.color} text={experienceTypeLabel.text} link={experience.link ?? undefined} />
         </div>
